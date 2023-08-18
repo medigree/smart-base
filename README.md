@@ -9,7 +9,7 @@
 
 # WHO SMART GUIDELINES - EMPTY IG
 
-This is an empty framework, to be used to create SMART Implementation Guides.
+This is an empty framework, to be used to create SMART Implementation Guides. 
 
 This framework is published under a Creative Commons - IGO [license](LICENSE.md).
 
